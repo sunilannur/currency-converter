@@ -1,2 +1,2 @@
 # currency-converter
-converting currency of countries
+converting currency of differnet countries
